@@ -4,11 +4,11 @@ body {
 
 h1 {
   color: white;
-  font-family: Comic Sans MS;
+  font-family: Comic 'Gill Sans', 'Gill Sans MT';
 }
 
 p {
-  font-family: Comic Sans MS;
+  font-family: Comic 'Gill Sans', 'Gill Sans MT';
   font-size: 20px;
   text-align: center;
 }
